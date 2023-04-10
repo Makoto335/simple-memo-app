@@ -1,0 +1,9 @@
+[submodule "memo-rails"]
+	path = memo-rails
+	url = https://github.com/Makoto335/memo-rails
+[submodule "memo-vue"]
+	path = memo-vue
+	url = https://github.com/Makoto335/memo-vue
+[submodule "memo-nginx"]
+	path = memo-nginx
+	url = https://github.com/Makoto335/memo-nginx
